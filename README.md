@@ -1,1 +1,3 @@
 # thisIsAProject
+
+![grcProjectImage](grcProject.png)
