@@ -1,4 +1,4 @@
-# thisIsAProject
+## thisIsAProject
 
 This was a feature that the Green River Valley College contracted me to create to help New Students understand the workload of the degree they were interested in and the life changing opportunities that a degree in IT will bring.
 
