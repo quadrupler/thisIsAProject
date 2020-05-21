@@ -12,6 +12,8 @@
 ## Overview
 This was a feature that the Green River Valley College contracted me to create to help New Students understand the workload of the degree they were interested in and the life changing opportunities that a degree in IT will bring.
 
+[View Project] (https://php-it-advising.herokuapp.com/)
+
 ## Challenges I faced creating this Advising Tool
 
 This paticular part I had a difficult in  implementing
@@ -30,3 +32,7 @@ Code Example
 ]
 
 Finally I finished this and I learned to approach this problem differently by doing Y
+
+Technologies Used
+
+
