@@ -5,8 +5,8 @@ This was a feature that the Green River Valley College contracted me to create t
 ![grcProjectImage](grcProject.png)
 
 ## Features
-- [ ] User can view a roadmap they will need to complete to finish their degree
-- [ ] User will be able to understand the opportunities that they will have
-- [ ] User will be able to view salary and other relevant statistics to their degree
-- [ ] User will be able to have the syllabus sent to their email entered in
+- [x] User can view a roadmap they will need to complete to finish their degree
+- [x] User will be able to understand the opportunities that they will have
+- [x] User will be able to view salary and other relevant statistics to their degree
+- [x] User will be able to have the syllabus sent to their email entered in
 
